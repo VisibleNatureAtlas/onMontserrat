@@ -1,0 +1,31 @@
+
+Fulica caribaea (Q1260975)
+==========================
+  
+Visualize Wikidata on [Scholia](https://scholia.toolforge.org/taxon/Q1260975)
+# National Museum of Natural History, Smithsonian Institution
+  
+Observation: [https://www.gbif.org/occurrence/1317607444](https://www.gbif.org/occurrence/1317607444)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1317607444](http://n2t.net/ark:/65665/m31752f2c7-2da2-4b63-8257-840749c10c11)  
+Observation: [https://www.gbif.org/occurrence/1317990417](https://www.gbif.org/occurrence/1317990417)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1317990417](http://n2t.net/ark:/65665/m31752f2c7-2da2-4b63-8257-840749c10c11)  
+Observation: [https://www.gbif.org/occurrence/1320959572](https://www.gbif.org/occurrence/1320959572)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1320959572](http://n2t.net/ark:/65665/m304793786-93d1-43cc-89a1-f3907fa940d6)  
+Observation: [https://www.gbif.org/occurrence/1322496185](https://www.gbif.org/occurrence/1322496185)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1322496185](http://n2t.net/ark:/65665/m304793786-93d1-43cc-89a1-f3907fa940d6)  
+Observation: [https://www.gbif.org/occurrence/1318963097](https://www.gbif.org/occurrence/1318963097)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1318963097](http://n2t.net/ark:/65665/m304793786-93d1-43cc-89a1-f3907fa940d6)  
+Observation: [https://www.gbif.org/occurrence/1319896834](https://www.gbif.org/occurrence/1319896834)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1319896834](http://n2t.net/ark:/65665/m304793786-93d1-43cc-89a1-f3907fa940d6)  
+Observation: [https://www.gbif.org/occurrence/1322308536](https://www.gbif.org/occurrence/1322308536)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1322308536](http://n2t.net/ark:/65665/m304793786-93d1-43cc-89a1-f3907fa940d6)  
+Observation: [https://www.gbif.org/occurrence/1317818935](https://www.gbif.org/occurrence/1317818935)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1317818935](http://n2t.net/ark:/65665/m31752f2c7-2da2-4b63-8257-840749c10c11)

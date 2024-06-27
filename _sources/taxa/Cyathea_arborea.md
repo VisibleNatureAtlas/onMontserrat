@@ -1,0 +1,102 @@
+
+Cyathea arborea (Q5795222)
+==========================
+  
+Visualize Wikidata on [Scholia](https://scholia.toolforge.org/taxon/Q5795222)
+# National Museum of Natural History, Smithsonian Institution
+  
+Observation: [https://www.gbif.org/occurrence/1319201328](https://www.gbif.org/occurrence/1319201328)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1319201328](http://n2t.net/ark:/65665/m3c278e3f4-ee83-4c18-bbe5-d4c832e89a6b)  
+Observation: [https://www.gbif.org/occurrence/1318259750](https://www.gbif.org/occurrence/1318259750)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1318259750](http://n2t.net/ark:/65665/m3dde9478b-e97c-467b-aae6-67919c4eb5e3)  
+Observation: [https://www.gbif.org/occurrence/1319994654](https://www.gbif.org/occurrence/1319994654)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1319994654](http://n2t.net/ark:/65665/m3adff07a4-541a-4084-813b-58b2e7609813)  
+Observation: [https://www.gbif.org/occurrence/1318696585](https://www.gbif.org/occurrence/1318696585)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1318696585](http://n2t.net/ark:/65665/m329109e6c-4366-4529-87bd-a3051f7c526a)  
+Observation: [https://www.gbif.org/occurrence/1322330076](https://www.gbif.org/occurrence/1322330076)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1322330076](http://n2t.net/ark:/65665/m3400bdccd-2af9-432f-aec7-d3b22a4647c9)  
+Observation: [https://www.gbif.org/occurrence/1318983618](https://www.gbif.org/occurrence/1318983618)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1318983618](http://n2t.net/ark:/65665/m39fbd1433-976c-4015-938b-4e161a913ef2)  
+Observation: [https://www.gbif.org/occurrence/1319855489](https://www.gbif.org/occurrence/1319855489)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1319855489](http://n2t.net/ark:/65665/m3f181ac79-4889-49fd-8760-6ccbb640c2a6)  
+Observation: [https://www.gbif.org/occurrence/1320768607](https://www.gbif.org/occurrence/1320768607)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1320768607](http://n2t.net/ark:/65665/m329623bba-2795-4430-8002-69053d0a59da)  
+Observation: [https://www.gbif.org/occurrence/1317660340](https://www.gbif.org/occurrence/1317660340)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1317660340](http://n2t.net/ark:/65665/m3fccb7664-40ec-4177-bb64-40a5402e261a)
+# USF Water Institute
+  
+Observation: [https://www.gbif.org/occurrence/1503311959](https://www.gbif.org/occurrence/1503311959)  
+License: [http://www.wikidata.org/entity/Q42553662](http://www.wikidata.org/entity/Q42553662)  
+![https://www.gbif.org/occurrence/1503311959](https://cdn.plantatlas.org/img/specimens/USF/89066.jpg)  
+Observation: [https://www.gbif.org/occurrence/1503311961](https://www.gbif.org/occurrence/1503311961)  
+License: [http://www.wikidata.org/entity/Q42553662](http://www.wikidata.org/entity/Q42553662)  
+![https://www.gbif.org/occurrence/1503311961](https://cdn.plantatlas.org/img/specimens/USF/89067.jpg)
+# Field Museum
+  
+Observation: [https://www.gbif.org/occurrence/1990704033](https://www.gbif.org/occurrence/1990704033)  
+License: [http://www.wikidata.org/entity/Q24082749](http://www.wikidata.org/entity/Q24082749)  
+![https://www.gbif.org/occurrence/1990704033](https://fm-digital-assets.fieldmuseum.org/1797/664/C0359519F.jpg)  
+Observation: [https://www.gbif.org/occurrence/1990706795](https://www.gbif.org/occurrence/1990706795)  
+License: [http://www.wikidata.org/entity/Q24082749](http://www.wikidata.org/entity/Q24082749)  
+![https://www.gbif.org/occurrence/1990706795](https://fm-digital-assets.fieldmuseum.org/1797/663/C0359518F.jpg)  
+Observation: [https://www.gbif.org/occurrence/1990706007](https://www.gbif.org/occurrence/1990706007)  
+License: [http://www.wikidata.org/entity/Q24082749](http://www.wikidata.org/entity/Q24082749)  
+![https://www.gbif.org/occurrence/1990706007](https://fm-digital-assets.fieldmuseum.org/1797/665/C0359520F.jpg)
+# The New York Botanical Garden
+  
+Observation: [https://www.gbif.org/occurrence/1929402110](https://www.gbif.org/occurrence/1929402110)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1929402110](http://sweetgum.nybg.org/images3/1072/187/01872329.jpg)  
+Observation: [https://www.gbif.org/occurrence/1927917849](https://www.gbif.org/occurrence/1927917849)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1927917849](http://sweetgum.nybg.org/images3/1072/189/01872331.jpg)  
+Observation: [https://www.gbif.org/occurrence/1929320469](https://www.gbif.org/occurrence/1929320469)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1929320469](http://sweetgum.nybg.org/images3/1072/182/01872324.jpg)  
+Observation: [https://www.gbif.org/occurrence/1930910536](https://www.gbif.org/occurrence/1930910536)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1930910536](http://sweetgum.nybg.org/images3/1072/188/01872330.jpg)  
+Observation: [https://www.gbif.org/occurrence/1928713906](https://www.gbif.org/occurrence/1928713906)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1928713906](http://sweetgum.nybg.org/images3/1072/186/01872328.jpg)  
+Observation: [https://www.gbif.org/occurrence/1928975064](https://www.gbif.org/occurrence/1928975064)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1928975064](http://sweetgum.nybg.org/images3/1072/183/01872325.jpg)
+# Naturalis Biodiversity Center
+  
+Observation: [https://www.gbif.org/occurrence/2517064727](https://www.gbif.org/occurrence/2517064727)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/2517064727](https://medialib.naturalis.nl/file/id/U.1005382/format/large)  
+Observation: [https://www.gbif.org/occurrence/2515223688](https://www.gbif.org/occurrence/2515223688)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/2515223688](https://medialib.naturalis.nl/file/id/U.1005383/format/large)
+# MNHN - Museum national d'Histoire naturelle
+  
+Observation: [https://www.gbif.org/occurrence/439332255](https://www.gbif.org/occurrence/439332255)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/439332255](http://mediaphoto.mnhn.fr/media/1441295994413YUjevVZnjKcAkJPB)
+# Carnegie Museums
+  
+Observation: [https://www.gbif.org/occurrence/2859003733](https://www.gbif.org/occurrence/2859003733)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/2859003733](http://mam.ansp.org/image/CM/Fullsize/207/CM207998.jpg)  
+Observation: [https://www.gbif.org/occurrence/2859261732](https://www.gbif.org/occurrence/2859261732)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/2859261732](http://mam.ansp.org/image/CM/Fullsize/207/CM207999.jpg)
+# iNaturalist.org
+  
+Observation: [https://www.gbif.org/occurrence/4535657051](https://www.gbif.org/occurrence/4535657051)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/4535657051](https://inaturalist-open-data.s3.amazonaws.com/photos/354543542/original.jpg)  
+Observation: [https://www.gbif.org/occurrence/4535657051](https://www.gbif.org/occurrence/4535657051)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/4535657051](https://inaturalist-open-data.s3.amazonaws.com/photos/354543550/original.jpg)

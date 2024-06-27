@@ -1,0 +1,50 @@
+
+Guettarda odorata (Q15459686)
+=============================
+  
+Visualize Wikidata on [Scholia](https://scholia.toolforge.org/taxon/Q15459686)
+# National Museum of Natural History, Smithsonian Institution
+  
+Observation: [https://www.gbif.org/occurrence/1321661177](https://www.gbif.org/occurrence/1321661177)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1321661177](http://n2t.net/ark:/65665/m3791ad4f9-123c-4323-820b-524a1d9728b7)  
+Observation: [https://www.gbif.org/occurrence/1322286908](https://www.gbif.org/occurrence/1322286908)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1322286908](http://n2t.net/ark:/65665/m35fcf3d38-e4d7-4af5-ad23-18e9048ad6e9)  
+Observation: [https://www.gbif.org/occurrence/1317761657](https://www.gbif.org/occurrence/1317761657)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1317761657](http://n2t.net/ark:/65665/m3964474b9-8fa1-44c5-b29f-8a714b5dfe19)  
+Observation: [https://www.gbif.org/occurrence/1322715592](https://www.gbif.org/occurrence/1322715592)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1322715592](http://n2t.net/ark:/65665/m3120de177-93e4-41f8-919e-d72a56220598)  
+Observation: [https://www.gbif.org/occurrence/1317438487](https://www.gbif.org/occurrence/1317438487)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1317438487](http://n2t.net/ark:/65665/m356c265a5-9c83-43d5-af2f-867a3273bf7c)  
+Observation: [https://www.gbif.org/occurrence/1318472508](https://www.gbif.org/occurrence/1318472508)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1318472508](http://n2t.net/ark:/65665/m3cfd0e316-7e26-4dc7-b24f-9f6d163f1f22)
+# The New York Botanical Garden
+  
+Observation: [https://www.gbif.org/occurrence/1930919832](https://www.gbif.org/occurrence/1930919832)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1930919832](http://sweetgum.nybg.org/images3/406/090/v-301-01325694.jpg)  
+Observation: [https://www.gbif.org/occurrence/1928287662](https://www.gbif.org/occurrence/1928287662)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1928287662](http://sweetgum.nybg.org/images3/406/091/v-301-01325695.jpg)  
+Observation: [https://www.gbif.org/occurrence/1929326129](https://www.gbif.org/occurrence/1929326129)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1929326129](http://sweetgum.nybg.org/images3/406/079/v-301-01325683.jpg)  
+Observation: [https://www.gbif.org/occurrence/1929735729](https://www.gbif.org/occurrence/1929735729)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1929735729](http://sweetgum.nybg.org/images3/406/084/v-301-01325688.jpg)  
+Observation: [https://www.gbif.org/occurrence/1930308108](https://www.gbif.org/occurrence/1930308108)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1930308108](http://sweetgum.nybg.org/images3/406/078/v-301-01325682.jpg)
+# Meise Botanic Garden
+  
+Observation: [https://www.gbif.org/occurrence/4876295845](https://www.gbif.org/occurrence/4876295845)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/4876295845](https://oxalis.br.fgov.be/images/V/BR0/000/027/525/906/BR0000027525906V.jpg)  
+Observation: [https://www.gbif.org/occurrence/4876295845](https://www.gbif.org/occurrence/4876295845)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/4876295845](https://iiif-manifest.oxalis.br.fgov.be/specimen/BR0000027525906V/manifest)
