@@ -1,0 +1,31 @@
+
+Syntomeida epilais (Q3508953)
+=============================
+  
+Visualize Wikidata on [Scholia](https://scholia.toolforge.org/taxon/Q3508953)
+# iNaturalist.org
+  
+Observation: [https://www.gbif.org/occurrence/3031636152](https://www.gbif.org/occurrence/3031636152)  
+License: [http://www.wikidata.org/entity/Q24082749](http://www.wikidata.org/entity/Q24082749)  
+![https://www.gbif.org/occurrence/3031636152](https://inaturalist-open-data.s3.amazonaws.com/photos/108730896/original.jpeg)  
+Observation: [https://www.gbif.org/occurrence/1262371880](https://www.gbif.org/occurrence/1262371880)  
+License: [http://www.wikidata.org/entity/Q24082749](http://www.wikidata.org/entity/Q24082749)  
+![https://www.gbif.org/occurrence/1262371880](https://inaturalist-open-data.s3.amazonaws.com/photos/3138413/original.jpg)  
+Observation: [https://www.gbif.org/occurrence/1262371880](https://www.gbif.org/occurrence/1262371880)  
+License: [http://www.wikidata.org/entity/Q24082749](http://www.wikidata.org/entity/Q24082749)  
+![https://www.gbif.org/occurrence/1262371880](https://inaturalist-open-data.s3.amazonaws.com/photos/3138414/original.jpg)  
+Observation: [https://www.gbif.org/occurrence/4018397321](https://www.gbif.org/occurrence/4018397321)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/4018397321](https://inaturalist-open-data.s3.amazonaws.com/photos/252172561/original.jpg)  
+Observation: [https://www.gbif.org/occurrence/4018397321](https://www.gbif.org/occurrence/4018397321)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/4018397321](https://inaturalist-open-data.s3.amazonaws.com/photos/252172519/original.jpg)  
+Observation: [https://www.gbif.org/occurrence/4018397321](https://www.gbif.org/occurrence/4018397321)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/4018397321](https://inaturalist-open-data.s3.amazonaws.com/photos/252172541/original.jpg)  
+Observation: [https://www.gbif.org/occurrence/4597300875](https://www.gbif.org/occurrence/4597300875)  
+License: [http://www.wikidata.org/entity/Q24082749](http://www.wikidata.org/entity/Q24082749)  
+![https://www.gbif.org/occurrence/4597300875](https://inaturalist-open-data.s3.amazonaws.com/photos/354884253/original.jpeg)  
+Observation: [https://www.gbif.org/occurrence/4028789277](https://www.gbif.org/occurrence/4028789277)  
+License: [http://www.wikidata.org/entity/Q24082749](http://www.wikidata.org/entity/Q24082749)  
+![https://www.gbif.org/occurrence/4028789277](https://inaturalist-open-data.s3.amazonaws.com/photos/253831593/original.jpeg)

@@ -1,0 +1,31 @@
+
+Ponthieva petiolata (Q10808263)
+===============================
+  
+Visualize Wikidata on [Scholia](https://scholia.toolforge.org/taxon/Q10808263)
+# iNaturalist.org
+  
+Observation: [https://www.gbif.org/occurrence/3873906333](https://www.gbif.org/occurrence/3873906333)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/3873906333](https://inaturalist-open-data.s3.amazonaws.com/photos/214408743/original.jpeg)  
+Observation: [https://www.gbif.org/occurrence/3873906333](https://www.gbif.org/occurrence/3873906333)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/3873906333](https://inaturalist-open-data.s3.amazonaws.com/photos/214408710/original.jpeg)  
+Observation: [https://www.gbif.org/occurrence/3873906333](https://www.gbif.org/occurrence/3873906333)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/3873906333](https://inaturalist-open-data.s3.amazonaws.com/photos/214573995/original.jpeg)  
+Observation: [https://www.gbif.org/occurrence/3873906333](https://www.gbif.org/occurrence/3873906333)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/3873906333](https://inaturalist-open-data.s3.amazonaws.com/photos/214408879/original.jpeg)  
+Observation: [https://www.gbif.org/occurrence/3873906333](https://www.gbif.org/occurrence/3873906333)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/3873906333](https://inaturalist-open-data.s3.amazonaws.com/photos/214408835/original.jpeg)  
+Observation: [https://www.gbif.org/occurrence/3873906333](https://www.gbif.org/occurrence/3873906333)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/3873906333](https://inaturalist-open-data.s3.amazonaws.com/photos/214408808/original.jpeg)  
+Observation: [https://www.gbif.org/occurrence/3873906333](https://www.gbif.org/occurrence/3873906333)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/3873906333](https://inaturalist-open-data.s3.amazonaws.com/photos/214408787/original.jpeg)  
+Observation: [https://www.gbif.org/occurrence/3873906333](https://www.gbif.org/occurrence/3873906333)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/3873906333](https://inaturalist-open-data.s3.amazonaws.com/photos/214408763/original.jpeg)

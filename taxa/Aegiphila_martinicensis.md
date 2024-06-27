@@ -1,0 +1,53 @@
+
+Aegiphila martinicensis (Q15339440)
+===================================
+  
+Visualize Wikidata on [Scholia](https://scholia.toolforge.org/taxon/Q15339440)
+# National Museum of Natural History, Smithsonian Institution
+  
+Observation: [https://www.gbif.org/occurrence/1317235654](https://www.gbif.org/occurrence/1317235654)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1317235654](http://n2t.net/ark:/65665/m3860d1038-8e1d-43d5-803b-2806ebab0075)  
+Observation: [https://www.gbif.org/occurrence/1322491143](https://www.gbif.org/occurrence/1322491143)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1322491143](http://n2t.net/ark:/65665/m3558e7e1e-789c-418b-aa5a-21b06d7962f9)  
+Observation: [https://www.gbif.org/occurrence/1318725644](https://www.gbif.org/occurrence/1318725644)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1318725644](http://n2t.net/ark:/65665/m3dbc11c98-60b9-409f-80d9-d98b63fad7db)  
+Observation: [https://www.gbif.org/occurrence/1322568400](https://www.gbif.org/occurrence/1322568400)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1322568400](http://n2t.net/ark:/65665/m351f168bc-6abc-4a43-9451-f68ab51d183d)  
+Observation: [https://www.gbif.org/occurrence/1318973208](https://www.gbif.org/occurrence/1318973208)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1318973208](http://n2t.net/ark:/65665/m365b54ded-2eee-4999-a989-79b93703c69e)  
+Observation: [https://www.gbif.org/occurrence/1320780959](https://www.gbif.org/occurrence/1320780959)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1320780959](http://n2t.net/ark:/65665/m36e1683da-32c6-481b-b23a-7f54a661a42c)  
+Observation: [https://www.gbif.org/occurrence/1322405025](https://www.gbif.org/occurrence/1322405025)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1322405025](http://n2t.net/ark:/65665/m377deeae1-7038-4d61-9bcc-146f523a3fd0)
+# The New York Botanical Garden
+  
+Observation: [https://www.gbif.org/occurrence/1928938599](https://www.gbif.org/occurrence/1928938599)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1928938599](http://sweetgum.nybg.org/images3/426/243/v-284-01337170.jpg)  
+Observation: [https://www.gbif.org/occurrence/1931203231](https://www.gbif.org/occurrence/1931203231)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1931203231](http://sweetgum.nybg.org/images3/426/261/v-284-01337190.jpg)  
+Observation: [https://www.gbif.org/occurrence/1929882857](https://www.gbif.org/occurrence/1929882857)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1929882857](http://sweetgum.nybg.org/images3/426/260/v-284-01337189.jpg)  
+Observation: [https://www.gbif.org/occurrence/1930568086](https://www.gbif.org/occurrence/1930568086)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1930568086](http://sweetgum.nybg.org/images3/426/286/v-284-01337216.jpg)  
+Observation: [https://www.gbif.org/occurrence/1931026222](https://www.gbif.org/occurrence/1931026222)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1931026222](http://sweetgum.nybg.org/images3/426/263/v-284-01337192.jpg)  
+Observation: [https://www.gbif.org/occurrence/1930134891](https://www.gbif.org/occurrence/1930134891)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/1930134891](http://sweetgum.nybg.org/images3/426/283/v-284-01337213.jpg)
+# Naturalis Biodiversity Center
+  
+Observation: [https://www.gbif.org/occurrence/2517558783](https://www.gbif.org/occurrence/2517558783)  
+License: [http://www.wikidata.org/entity/Q18199165](http://www.wikidata.org/entity/Q18199165)  
+![https://www.gbif.org/occurrence/2517558783](https://medialib.naturalis.nl/file/id/U.1752267/format/large)

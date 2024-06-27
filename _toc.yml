@@ -2,13 +2,32 @@ format: jb-book
 parts:
 - caption: Collections with grasses and sedges from Montserrat
   chapters:
-  - file: organisation/Sofie_Meeus.md
-  - file: organisation/nan.md
-  - file: organisation/classical.md
+  - file: organisation/Louisiana_State_University_Herbarium.md
+  - file: organisation/Field_Museum.md
+  - file: organisation/Margaret_H._Fulford_Herbarium,_University_of_Cincinnati_(CINC).md
+  - file: organisation/Museum_of_Comparative_Zoology,_Harvard_University.md
   - file: organisation/The_New_York_Botanical_Garden.md
-  - file: organisation/Quentin_Groom.md
+  - file: organisation/Staatliche_Naturwissenschaftliche_Sammlungen_Bayerns.md
+  - file: organisation/Botanical_Research_Institute_of_Texas.md
+  - file: organisation/USF_Water_Institute.md
+  - file: organisation/Florida_Museum_of_Natural_History.md
+  - file: organisation/Naturalis_Biodiversity_Center.md
+  - file: organisation/Natural_History_Museum,_Vienna.md
+  - file: organisation/Royal_Botanic_Gardens,_Kew.md
+  - file: organisation/Missouri_Botanical_Garden.md
+  - file: organisation/University_of_Graz,_Institute_of_Plant_Sciences.md
   - file: organisation/Meise_Botanic_Garden.md
-  - file: organisation/University_of_Florida.md
+  - file: organisation/Royal_Botanic_Garden_Edinburgh.md
+  - file: organisation/Carnegie_Museums.md
+  - file: organisation/Natural_History_Museum_of_Denmark.md
+  - file: organisation/iNaturalist.org.md
+  - file: organisation/National_Museum_of_Natural_History,_Smithsonian_Institution.md
+  - file: organisation/University_of_North_Carolina_at_Chapel_Hill_Herbarium_(NCU).md
+  - file: organisation/Yale_University_Peabody_Museum.md
+  - file: organisation/Natural_History_Museum.md
+  - file: organisation/Instituto_de_Pesquisas_Jardim_Botanico_do_Rio_de_Janeiro.md
+  - file: organisation/University_of_Colorado_Museum_of_Natural_History.md
+  - file: organisation/MNHN_-_Museum_national_d'Histoire_naturelle.md
 - caption: Taxa originally from Montserrat
   chapters:
   - file: taxa/Oreopanax_capitatus.md
