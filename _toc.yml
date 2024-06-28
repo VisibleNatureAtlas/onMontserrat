@@ -1,6 +1,6 @@
 format: jb-book
 parts:
-- caption: Collections with grasses and sedges from Montserrat
+- caption: Collections with species from Montserrat
   chapters:
   - file: organisation/Louisiana_State_University_Herbarium.md
   - file: organisation/Field_Museum.md
